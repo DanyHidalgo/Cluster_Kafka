@@ -1,0 +1,13 @@
+id ,timestamp            ,equipo_local     ,equipo_visitante
+ 1 ,2019-03-02T00:00:00Z ,FC Barcelona     ,Real Madrid
+ 5 ,2020-07-11T00:00:00Z ,Real Madrid      ,Villarreal
+ 8 ,2022-10-22T00:00:00Z ,Real Sociedad    ,Barcelona
+12 ,2024-12-14T00:00:00Z ,Athletic Bilbao  ,Real Betis
+ 2 ,2019-07-06T00:00:00Z ,AtlÃ©tico Madrid ,Valencia CF
+ 3 ,2019-12-14T00:00:00Z ,Sevilla FC       ,Real Betis
+ 7 ,2021-04-24T00:00:00Z ,Getafe           ,Granada CF
+ 9 ,2023-03-04T00:00:00Z ,Villarreal       ,AtlÃ©tico Madrid
+10 ,2023-08-19T00:00:00Z ,Real Madrid      ,Sevilla FC
+ 4 ,2020-05-09T00:00:00Z ,Real Sociedad    ,Athletic Bilbao
+ 6 ,2021-03-06T00:00:00Z ,Athletic Bilbao  ,Eibar
+11 ,2023-11-11T00:00:00Z ,Celta Vigo       ,Espanyol

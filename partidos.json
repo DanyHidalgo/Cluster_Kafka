@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "timestamp": "2019-03-02T00:00:00Z",
+        "equipo_local": "FC Barcelona",
+        "equipo_visitante": "Real Madrid"
+    },
+    {
+        "id": 2,
+        "timestamp": "2019-07-06T00:00:00Z",
+        "equipo_local": "Atlético Madrid",
+        "equipo_visitante": "Valencia CF"
+    },
+    {
+        "id": 3,
+        "timestamp": "2019-12-14T00:00:00Z",
+        "equipo_local": "Sevilla FC",
+        "equipo_visitante": "Real Betis"
+    },
+    {
+        "id": 4,
+        "timestamp": "2020-05-09T00:00:00Z",
+        "equipo_local": "Real Sociedad",
+        "equipo_visitante": "Athletic Bilbao"
+    },
+    {
+        "id": 5,
+        "timestamp": "2020-07-11T00:00:00Z",
+        "equipo_local": "Real Madrid",
+        "equipo_visitante": "Villarreal"
+    },
+    {
+        "id": 6,
+        "timestamp": "2021-03-06T00:00:00Z",
+        "equipo_local": "Athletic Bilbao",
+        "equipo_visitante": "Eibar"
+    },
+    {
+        "id": 7,
+        "timestamp": "2021-04-24T00:00:00Z",
+        "equipo_local": "Getafe",
+        "equipo_visitante": "Granada CF"
+    },
+    {
+        "id": 8,
+        "timestamp": "2022-10-22T00:00:00Z",
+        "equipo_local": "Real Sociedad",
+        "equipo_visitante": "Barcelona"
+    },
+    {
+        "id": 9,
+        "timestamp": "2023-03-04T00:00:00Z",
+        "equipo_local": "Villarreal",
+        "equipo_visitante": "Atlético Madrid"
+    },
+    {
+        "id": 10,
+        "timestamp": "2023-08-19T00:00:00Z",
+        "equipo_local": "Real Madrid",
+        "equipo_visitante": "Sevilla FC"
+    },
+    {
+        "id": 11,
+        "timestamp": "2023-11-11T00:00:00Z",
+        "equipo_local": "Celta Vigo",
+        "equipo_visitante": "Espanyol"
+    },
+    {
+        "id": 12,
+        "timestamp": "2024-12-14T00:00:00Z",
+        "equipo_local": "Athletic Bilbao",
+        "equipo_visitante": "Real Betis"
+    }
+]
